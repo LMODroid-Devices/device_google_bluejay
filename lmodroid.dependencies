@@ -4,7 +4,7 @@
     "target_path": "device/google/gs101"
   },
   {
-    "remote": "lineage",
+    "remote": "aosp-bluejay",
     "repository": "device/google/bluejay-kernel",
     "target_path": "device/google/bluejay-kernel"
   }
